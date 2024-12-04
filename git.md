@@ -1,3 +1,8 @@
+---
+layout: page
+title: Git and GitHub
+---
+
 # Git and Github
 
 Page actions

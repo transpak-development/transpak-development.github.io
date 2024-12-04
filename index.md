@@ -1,4 +1,9 @@
-# About
+---
+layout: page
+title: Introduction
+---
+
+# Introduction
 
 From the perspective of even a seasoned developer there are ***a lot*** of new technologies and concepts you need to be familiar with to effectively contribute to a modern software engineering effort. Furthermore, it's hard to know exactly where to start on this journey and how to stay on the optimal path through the multitude of web-pages, READMEs, FAQs, blog posts, and third-party documentation you encounter along the way.
 

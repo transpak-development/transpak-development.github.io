@@ -1,3 +1,8 @@
+---
+layout: page
+title: Command Line Tools
+---
+
 # Command line tools
 
 Page actions
