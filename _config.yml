@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: TransPak Development
 description: Guidelines for Development and Collaboration
 nav:
