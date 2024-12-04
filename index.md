@@ -1,6 +1,6 @@
 # About
 
-From the perspective of even a seasonedEVE developer there are ***a lot*** of new technologies and concepts you need to be familiar with to effectively contribute to a modern software engineering effort. Furthermore, it's hard to know exactly where to start on this journey and how to stay on the optimal path through the multitude of web-pages, READMEs, FAQs, blog posts, and third-party documentation you encounter along the way.
+From the perspective of even a seasoned developer there are ***a lot*** of new technologies and concepts you need to be familiar with to effectively contribute to a modern software engineering effort. Furthermore, it's hard to know exactly where to start on this journey and how to stay on the optimal path through the multitude of web-pages, READMEs, FAQs, blog posts, and third-party documentation you encounter along the way.
 
 In this brief guide we attempt to provide just such a starting point for developers new to TransPak and its long list of technologies. Our goal is to help you navigate step-by-step past each technological challenge, summarize the essential knowledge you need to keep going, and point out important internal and external resources you will want to circle back to later once you are well on your way to delivering real business for both TransPak and its employees alike.
 
