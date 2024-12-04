@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: TransPak Development
 description: Guidelines for Development and Collaboration
+nav:
+  - title: Home
+    url: /
+  - title: Command Line Tools
+    url: /cli/
+  - title: Git and GitHub
+    url: /git/
