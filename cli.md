@@ -58,3 +58,5 @@ While there are some amazingly functional and visually appealing ways to [custom
 To load the latest version of PowerShell by default and / or configure Windows Terminal as your default terminal application navigate to the *Settings* tab in Windows Terminal using the shortcut `Ctrl-,` and set the following values:
 
 ![img](/assets/WindowsTerminal-Defaults.png)
+
+[NEXT : Git and GitHub](/git)
