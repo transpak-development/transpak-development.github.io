@@ -19,6 +19,6 @@ If you have questions or run into issues while following along with this guide f
 
 ## A look ahead
 
-We use ***DotNet Core\*** to write code and tests and use ***Git\*** to handle version control. Combined with judicious use of the ***command line\*** this suite of technologies will allow us to rapidly and reliably deliver value while staying "in the flow."
+We use **DotNet Core** to write code and tests and use **Git** to handle version control. Combined with judicious use of the **command line** this suite of technologies will allow us to rapidly and reliably deliver value while staying "in the flow."
 
 In the next few sections we briefly introduce you to each of these technologies after which we provide a comprehensive tutorial to help you learn *just enough* of each to kick start your development efforts.

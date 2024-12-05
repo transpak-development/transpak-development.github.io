@@ -5,17 +5,15 @@ title: Command Line Tools
 
 # Command line tools
 
-Page actions
-
-in the beginning was the command line
+*in the beginning was the command line*
 
 Modern developers, somewhat ironically, use the comsumand line every day along with our favorite IDE, Goland. In this section we will help you install and configure an opinionated set of tools enabling a modern and effective command line workflow to augment the capabilities of your IDE. There are certainly other terminals, shells, and IDEs out there to choose from but we think the options presented here make the most sense for experienced Windows users dedicated to the platform.
 
 In addition to enabling efficient workflows, these command line tools also make following along with a guide like this one a lot simpler. There is nothing more frustrating than referring to dozens of screenshots filled with red markup and yellow highlights that inevitably go a little more out-of-date with each UI update.
 
-The remainder of this guide assumes you have Windows Terminal and Winget installed and that you are using PowerShell to run the commands provided throughout.
+> **Note:** The remainder of this guide assumes you have Windows Terminal and Winget installed and that you are using PowerShell to run the commands provided throughout.
 
-Windows Terminal and Winget are installed by default with Windows 11!
+> **Note**: Windows Terminal and Winget are installed by default with Windows 11!
 
 ## **Windows terminal**
 
@@ -31,9 +29,9 @@ To install `winget` browse to its release page on GitHub, download the latest **
 
 [Download WinGet](https://github.com/microsoft/winget-cli/releases)
 
-You can update any app installed with winget to the latest version with the command `winget upgrade <package>`
-
-The command `winget list <package>` will report the version currently installed and whether an upgrade is available. You can also run `winget list` without specifying a package to check if upgrades are available for any installed package.
+> **Note:** You can update any app installed with winget to the latest version with the command `winget upgrade <package>`
+>
+> The command `winget list <package>` will report the version currently installed and whether an upgrade is available. You can also run `winget list` without specifying a package to check if upgrades are available for any installed package.
 
 ## **PowerShell**
 
@@ -45,16 +43,16 @@ An older version of PowerShell called, confusingly, Windows PowerShell is includ
 
 To use the latest release version of PowerShell you can install it using winget :
 
-winget install Microsoft.PowerShell
+`winget install Microsoft.PowerShell`
 
 ### Update the default PowerShell profile
 
 While there are some amazingly functional and visually appealing ways to [customize your PowerShell prompt](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal) we are going to simply update ours using a small script that will display the Git branch associated with the current directory if it is under source control. This will help us determine at a glance if we are working in the correct branch. 
 
-Invoke-WebRequest -Uri "https://git.io/JXGyz" -OutFile $PROFILE
+`Invoke-WebRequest -Uri "https://git.io/JXGyz" -OutFile $PROFILE`
 
 ### Shell and terminal defaults
 
 To load the latest version of PowerShell by default and / or configure Windows Terminal as your default terminal application navigate to the *Settings* tab in Windows Terminal using the shortcut `Ctrl-,` and set the following values:
 
-![img](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fyhya74oBKfPpqnGTmbIb%2Fuploads%2F6hcW8QQD8TnUvwnQngAF%2FWindowsTerminal-Defaults.png?alt=media&token=196b2979-92dd-451c-b1dc-7363a8d994f2)
+![img](/assets/WindowsTerminal-Defaults.png)
